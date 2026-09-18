@@ -42,3 +42,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/kotaesaki/kotaesaki/master/profile-summary-card-output/default/4-productive-time.svg)
+```
+
+    

@@ -42,3 +42,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/kotaesaki/kotaesaki/master/profile-summary-card-output/midnight_purple/4-productive-time.svg)
+```
+
+    
